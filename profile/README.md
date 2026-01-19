@@ -44,10 +44,10 @@ To become a leading platform that enables seamless online shopping experiences f
 
 We use modern and reliable technologies:
 
-- **Frontend:** React, Next.js, Flutter  
-- **Backend:** Node.js, Python, Java  
-- **Database:** PostgreSQL, MongoDB, Redis  
-- **DevOps:** Docker, GitHub Actions, Cloud Platforms  
+- **Frontend:** React.JS
+- **Backend:** Java-Spring Boot
+- **Database:** MySql  
+- **DevOps:** Docker, Cloud Platforms  
 
 *(Stack may vary by project.)*
 
